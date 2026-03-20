@@ -1,3 +1,4 @@
+# it is use function & operator  to claculate mathematical term  step//
 def add(a, b):
     return a + b
 
